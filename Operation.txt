@@ -1,0 +1,12 @@
+﻿date: 2019.03.18 н.э. at 20:38:05 MSKNew operationADDarguments :2.0;5.0result: 7.0:
+date: 2019.03.18 н.э. at 20:38:05 MSKNew operationSUBarguments :2.0;5.0result: -3.0:
+date: 2019.03.18 н.э. at 20:38:05 MSKNew operationMULTarguments :2.0;5.0result: 10.0:
+date: 2019.03.18 н.э. at 20:38:05 MSKNew operationDIVarguments :2.0;5.0result: 0.4:
+date: 2019.03.18 н.э. at 21:02:40 MSK New operation   ADD  arguments :2.0;5.0  result: 7.0:
+date: 2019.03.18 н.э. at 21:02:40 MSK New operation   SUB  arguments :2.0;5.0  result: -3.0:
+date: 2019.03.18 н.э. at 21:02:40 MSK New operation   MULT  arguments :2.0;5.0  result: 10.0:
+date: 2019.03.18 н.э. at 21:02:40 MSK New operation   DIV  arguments :2.0;5.0  result: 0.4:
+date: 2019.03.18 н.э. at 21:16:51 MSK New operation   ADD  arguments :2.0;5.0  result: 7.0:
+date: 2019.03.18 н.э. at 21:16:51 MSK New operation   SUB  arguments :2.0;5.0  result: -3.0:
+date: 2019.03.18 н.э. at 21:16:51 MSK New operation   MULT  arguments :2.0;5.0  result: 10.0:
+date: 2019.03.18 н.э. at 21:16:51 MSK New operation   DIV  arguments :2.0;5.0  result: 0.4:
